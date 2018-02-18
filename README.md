@@ -1,8 +1,6 @@
 # Exercise instructions
 
 ## Installation
-To install the project, simply type the following commands when you navigate to project root folder
-
 ```
 git clone https://github.com/StanislavLukasov/Meta.git Meta
 cd Meta
