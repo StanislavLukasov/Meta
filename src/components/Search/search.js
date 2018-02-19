@@ -1,4 +1,5 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
+import 'whatwg-fetch'
 import styles from './styles'
 import transformer from './transformer'
 import ImagesActions from '../../store/images/actions'
